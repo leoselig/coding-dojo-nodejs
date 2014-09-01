@@ -1,0 +1,1971 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"onSh",
+				"onShapeDoubleClick"
+			],
+			[
+				"resource",
+				"resourceId"
+			],
+			[
+				"addE",
+				"addExtListeners"
+			],
+			[
+				"resp",
+				"responsibles"
+			],
+			[
+				"respo",
+				"responsible"
+			],
+			[
+				"setupSten",
+				"setupStencilSetExtension"
+			],
+			[
+				"model",
+				"modelViewer"
+			],
+			[
+				"_model",
+				"_modelUri"
+			],
+			[
+				"setupSte",
+				"setupStencilSetExtension"
+			],
+			[
+				"sten",
+				"stencilset"
+			],
+			[
+				"setup",
+				"setupStencilSet"
+			],
+			[
+				"loadSte",
+				"loadStencilSets"
+			],
+			[
+				"loadS",
+				"loadStencilSets"
+			],
+			[
+				"diagra",
+				"diagramView"
+			],
+			[
+				"SHOW_",
+				"SHOW_MODEL_VIEW"
+			],
+			[
+				"annot",
+				"annotatedElementBox"
+			],
+			[
+				"removeC",
+				"removeCommentListView"
+			],
+			[
+				"record",
+				"recordIndex"
+			],
+			[
+				"val",
+				"valueField"
+			],
+			[
+				"dis",
+				"displayField"
+			],
+			[
+				"pati",
+				"participantById"
+			],
+			[
+				"activit",
+				"activity"
+			],
+			[
+				"part",
+				"participantId"
+			],
+			[
+				"parti",
+				"participantId"
+			],
+			[
+				"filter",
+				"filterParticipantId"
+			],
+			[
+				"participantId",
+				"filterParticipantId"
+			],
+			[
+				"parent",
+				"parentEventManager"
+			],
+			[
+				"partic",
+				"participant"
+			],
+			[
+				"whi",
+				"white-space"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"skipp",
+				"skippedParticipants"
+			],
+			[
+				"fil",
+				"filterParticipantId"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"partici",
+				"participants"
+			],
+			[
+				"acti",
+				"activity"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"clear",
+				"clearSelections"
+			],
+			[
+				"addCl",
+				"addClearButton"
+			],
+			[
+				"addClea",
+				"addClearButtonTo"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"toggle",
+				"togglePanel"
+			],
+			[
+				"auto",
+				"autoCompletePanel"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"han",
+				"handleSelect"
+			],
+			[
+				"togg",
+				"togglePanel"
+			],
+			[
+				"ini",
+				"initAutoCompletePanel"
+			],
+			[
+				"numbe",
+				"numberParticipants"
+			],
+			[
+				"inde",
+				"_indexToBeDeselected"
+			],
+			[
+				"index",
+				"_indexAboutToBeSelected"
+			],
+			[
+				"remove",
+				"removePlaceholders"
+			],
+			[
+				"creat",
+				"createContentPanel"
+			],
+			[
+				"cre",
+				"createContentPanel"
+			],
+			[
+				"rem",
+				"removeCurrentFilterView"
+			],
+			[
+				"particip",
+				"participantId"
+			],
+			[
+				"simple",
+				"simpleView"
+			],
+			[
+				"sele",
+				"_selectedParticipantId"
+			],
+			[
+				"selet",
+				"selectedId"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"activ",
+				"activityWidget"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"lineh",
+				"line-height"
+			],
+			[
+				"plac",
+				"placeholder"
+			],
+			[
+				"insert",
+				"insertIndex"
+			],
+			[
+				"Compo",
+				"CompositeElement"
+			],
+			[
+				"act",
+				"activity"
+			],
+			[
+				"pa",
+				"participant"
+			],
+			[
+				"matches",
+				"matchesFilter"
+			],
+			[
+				"autoHeigh",
+				"autoHeightElement"
+			],
+			[
+				"currentH",
+				"currentHiddenParticipants"
+			],
+			[
+				"ite",
+				"itemWidgets"
+			],
+			[
+				"ski",
+				"skippedParticipants"
+			],
+			[
+				"skippe",
+				"skippedParticipants"
+			],
+			[
+				"htmlF",
+				"htmlFromString"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"child",
+				"childrenPanel"
+			],
+			[
+				"ac",
+				"activityWidget"
+			],
+			[
+				"Ac",
+				"Activities"
+			],
+			[
+				"up",
+				"updateExpandCollapseButton"
+			],
+			[
+				"heade",
+				"headerPanel"
+			],
+			[
+				"children",
+				"childrenPanel"
+			],
+			[
+				"selectionToggle",
+				"selectionToggleLeftOffset"
+			],
+			[
+				"selectionTo",
+				"selectionToggleWidth"
+			],
+			[
+				"autocomple",
+				"autocompleteActive"
+			],
+			[
+				"displ",
+				"displayField"
+			],
+			[
+				"update",
+				"updateParticipantStore"
+			],
+			[
+				"par",
+				"participantStore"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tab",
+				"table-layout"
+			],
+			[
+				"initRe",
+				"initResource"
+			],
+			[
+				"appl",
+				"appliances"
+			],
+			[
+				"apl",
+				"appliances"
+			],
+			[
+				"store",
+				"storeItSystems"
+			],
+			[
+				"cal",
+				"calculateImportanceFor"
+			],
+			[
+				"rac",
+				"raciStringParts"
+			],
+			[
+				"crea",
+				"createRACIStringFor"
+			],
+			[
+				"eva",
+				"evaluateParticipants"
+			],
+			[
+				"raci",
+				"raciStates"
+			],
+			[
+				"upd",
+				"updateForModel"
+			],
+			[
+				"had",
+				"handelLoadMoviCanvas"
+			],
+			[
+				"childre",
+				"childrenEventManager"
+			],
+			[
+				"faca",
+				"facadeListeners"
+			],
+			[
+				"listene",
+				"listenerConfig"
+			],
+			[
+				"acc",
+				"accountable"
+			],
+			[
+				"respon",
+				"responsibility"
+			],
+			[
+				"shape",
+				"shapeId"
+			],
+			[
+				"prev",
+				"previousLength"
+			],
+			[
+				"list",
+				"listenerConfig"
+			],
+			[
+				"lis",
+				"extListeners"
+			],
+			[
+				"face",
+				"facade"
+			],
+			[
+				"instan",
+				"instanceated"
+			],
+			[
+				"regis",
+				"registerFacadeEvent"
+			],
+			[
+				"facade",
+				"facadeEvents"
+			],
+			[
+				"ty",
+				"typeAhead"
+			],
+			[
+				"force",
+				"forceSelection"
+			],
+			[
+				"borde",
+				"borderBox"
+			],
+			[
+				"defaul",
+				"defaultPath"
+			],
+			[
+				"BAC",
+				"BACKEND_PATH"
+			],
+			[
+				"Glossa",
+				"GlossaryStore"
+			],
+			[
+				"Gloss",
+				"GlossaryStore"
+			],
+			[
+				"base",
+				"baseParams"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"defer",
+				"deferUpdatingFor"
+			],
+			[
+				"Glo",
+				"GlossaryItem"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Signavio",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"all",
+				"Build: Build All"
+			],
+			[
+				"cli",
+				"Build: Build Client"
+			],
+			[
+				"lib",
+				"Build: Build Libs"
+			],
+			[
+				"libs",
+				"Build: Build Libs"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"tom",
+				"Build: Start Tomcat"
+			],
+			[
+				"al",
+				"Build: Build All"
+			],
+			[
+				"ci",
+				"Package Control: Install Package"
+			],
+			[
+				"plugin",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"cl",
+				"Build: Build Client"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"plugin o",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"pretti",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"tomcat",
+				"Build: Start Tomcat"
+			],
+			[
+				"CLI",
+				"Build: Build Client"
+			],
+			[
+				"b",
+				"Build: Build Client"
+			],
+			[
+				"lci",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"start",
+				"Build: Start Tomcat"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"sta",
+				"Build: Start Tomcat"
+			],
+			[
+				"clie",
+				"Build: Build Client"
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"prettfy",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"client",
+				"Build: Build Client"
+			],
+			[
+				"buil",
+				"Build: Build All"
+			],
+			[
+				"tomc",
+				"Build: Start Tomcat"
+			],
+			[
+				"build",
+				"Build: Build All"
+			],
+			[
+				"pla",
+				"Build: Build Platform"
+			],
+			[
+				"plat",
+				"Build: Build Platform"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"prettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"star",
+				"Build: Start Tomcat"
+			],
+			[
+				"st",
+				"Build: Start Tomcat"
+			],
+			[
+				"bui",
+				"Build: Build All"
+			],
+			[
+				"platf",
+				"Build: Build Platform"
+			],
+			[
+				"pretty",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"bui ",
+				"Build: Build All"
+			],
+			[
+				"build all",
+				"Build: Build All"
+			],
+			[
+				"build al",
+				"Build: Build All"
+			],
+			[
+				"build ",
+				"Build: Build All"
+			],
+			[
+				"start t",
+				"Build: Start Tomcat"
+			],
+			[
+				"build a",
+				"Build: Build All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"close al",
+				"File: Close All"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"builda",
+				"Build: Build All"
+			],
+			[
+				"build pl",
+				"Build: Build Platform"
+			],
+			[
+				"build li",
+				"Build: Build Libs"
+			],
+			[
+				"sli",
+				"Sort Lines"
+			],
+			[
+				"build cl",
+				"Build: Build Client"
+			],
+			[
+				"clin",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"clien",
+				"Build: Build Client"
+			],
+			[
+				"build lib",
+				"Build: Build Libs"
+			],
+			[
+				"buid",
+				"Build: Build Explorer"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"buidl cl",
+				"Build: Build Client"
+			],
+			[
+				"svn",
+				"TortoiseSVN: Update"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"buidl ",
+				"Build: Build All"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"deplo",
+				"Build: Build Explorer"
+			],
+			[
+				"list ta",
+				"Super Ant - List Targets"
+			],
+			[
+				"ant",
+				"Super Ant - List Targets"
+			]
+		],
+		"width": 615.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"echo",
+			"ant",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/diagramView_siko.js",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/diagramView.js",
+		"/S/workspace-portal/portal/client/src/_application/js/views/Diagram.js",
+		"/S/workspace-portal/portal/libs/src/movi/src/modelviewer.js",
+		"/S/Sublime Text 3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/viewPlugins/diagramAnnotation.js",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/legend.js",
+		"/S/workspace-portal/portal/client/src/portal/less/diagramview.less",
+		"/S/workspace-portal/portal/libs/src/movi/src/canvas.js",
+		"/S/workspace-portal/portal/client/src/_application/js/core/modelapi/Loader.js",
+		"/S/workspace-portal/portal/client/build.xml",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/comments.js",
+		"/S/workspace-portal/portal/client/src/_application/js/core/modelapi/Model.js",
+		"/S/workspace-portal/portal/client/src/portal/js/core/modelapiextension.js",
+		"/S/workspace-portal/portal/libs/build/movi/movi.js",
+		"/S/workspace-portal/portal/client/src/_ux/less/mixins.less",
+		"/S/workspace-portal/portal/simulation/evaldata/diagram-a.json",
+		"/S/workspace-portal/portal/help/src_de/HTML/diagramme_in_mediawiki_einbind.htm",
+		"/S/workspace-portal/portal/client api/docs/docco.css",
+		"/S/Sublime Text 3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/user/Desktop/acc.js",
+		"/S/workspace-portal/portal/platform/build.xml",
+		"/S/workspace-portal/portal/platform/build.number",
+		"/S/workspace-portal/portal/testing/node/cuba/node_modules/node-inspector/front-end/PlatformFontsSidebarPane.js",
+		"/S/workspace-portal/portal/platform/PlatformHierarchy.txt",
+		"/S/workspace-portal/portal/client/src/portal/templates/widgets/activities/placeholder.html",
+		"/S/workspace-portal/portal/platform/WebContent/WEB-INF/jsp/purchase_license.jsp",
+		"/S/workspace-portal/portal/configuration/pricing.xml",
+		"/C/Users/user/Desktop/movi_loadModelCallback_refactoring.js",
+		"/S/workspace-portal/portal/svg renderer java/data/processes/bpmn2.0/process_random.json",
+		"/S/workspace-portal/portal/simulationui/src/javascript/plugins/componentPlugins/modelView.js",
+		"/S/workspace-portal/portal/libs/src/movi/src/movi.js",
+		"/S/workspace-portal/portal/platform/src/com/signavio/enterprise/listener/AddUserToAdminGroupListener.java",
+		"/S/workspace-portal/portal/thinclient/Signavio Process Editor/prism/xulrunner/components/nsDownloadManagerUI.js",
+		"/S/workspace-portal/portal/signavio sdk examples/editor/files/yfiles/layout-organic.js",
+		"/S/workspace-portal/portal/client/LICENSE",
+		"/S/workspace-portal/portal/build.xml",
+		"/S/workspace-portal/portal/testing/node/cuba/node_modules/socket.io-client/test/node/builder.common.js",
+		"/S/workspace-portal/portal/aml converter/build-package.xml",
+		"/S/workspace-portal/portal/client/src/portal/js/core/ModelProvider.js",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/functionalPlugins/configurationManager.js",
+		"/S/workspace-portal/portal/client/build.properties",
+		"/S/workspace-portal/portal/libs/lib/ux/dialog/components/linkButton.js",
+		"/S/workspace-portal/portal/platform/bin/com/signavio/handler/warehouse/model/resource/CopyLinkedModelsTest.sgx",
+		"/S/workspace-portal/portal/client/target/client.war",
+		"/S/workspace-portal/portal/diagram/data/processes/complex_label_positions.json",
+		"/S/workspace-portal/portal/aml converter/config.js",
+		"/S/workspace-portal/portal/build.properties",
+		"/S/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/S/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/S/workspace-portal/portal/configuration/configuration.xml",
+		"/S/workspace-portal/portal/portal/src/javascript/plugins/contextPlugins/legend.js",
+		"/S/workspace-portal/portal/client/src/_application/js/templates/legend.js",
+		"/S/workspace-portal/portal/client/src/portal/less/legend.less",
+		"/S/workspace-portal/portal/libs/lib/ux/grid/lockingEditorGrid.js",
+		"/S/workspace-portal/portal/modelingguidelines/src/com/signavio/modelingguidelines/logging/LogEntry.java",
+		"/S/workspace-portal/portal/svg renderer java/data/processes/bpmn2.0/messageflow_object.json",
+		"/S/workspace-portal/portal/CommonIntegrationScenarios/html/movi-snippet.html",
+		"/S/workspace-portal/portal/help/src_de/HTML/modellierungskonventionen_ver2.htm",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/activities.js",
+		"/S/workspace-portal/portal/client/src/portal/js/core/Activity.js",
+		"/S/workspace-portal/portal/client/src/portal/less/Activities.less",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/RACIFilter.js",
+		"/S/workspace-portal/portal/client/src/portal/js/views/RACIFilter.js",
+		"/S/workspace-portal/portal/client/src/portal/js/views/SimpleRACIFilter.js",
+		"/S/workspace-portal/portal/client/src/portal/templates/views/RACIFilter/simple.html",
+		"/S/workspace-portal/portal/client/src/portal/js/views/BoxRACIFilter.js",
+		"/S/workspace-portal/portal/client/src/portal/less/Activity.less",
+		"/S/workspace-portal/portal/client/src/_ux/js/form/AutoCompleteField.js",
+		"/S/workspace-portal/portal/diagram/doc/NewDiagramAPI.uml",
+		"/S/workspace-portal/portal/client/src/portal/less/comments.less",
+		"/S/workspace-portal/portal/stencilsets/workflownets/view/activity.svg",
+		"/S/workspace-portal/portal/help/src/HTML/adding_comments.htm",
+		"/S/workspace-portal/portal/platform/bin/allUnitTests.xml",
+		"/S/workspace-portal/portal/bpmn20xmlsignavio/data/importFiles/bpmntest7_haertetest_ohne_datenobjekte.bpmn",
+		"/S/workspace-portal/portal/client/src/_ux/less/form/ComboBox.less",
+		"/S/workspace-portal/portal/client/src/_ux/js/form/ComboBox.js",
+		"/S/workspace-portal/portal/simulation/src/com/signavio/simulation/warehouse/ActivityInstance.java",
+		"/S/workspace-portal/portal/client/src/_ux/less/variables.less",
+		"/S/workspace-portal/portal/help/src/Topics/Snippet_SP_Install_Manage_Acce.xml",
+		"/S/workspace-portal/portal/mashup/build/style/signavio_ie.css",
+		"/S/workspace-portal/portal/signavio.sublime-project",
+		"/S/workspace-portal/portal/mashup/example/simple.htm",
+		"/S/workspace-portal/portal/libs/lib/ext-2.0.2/ext-all-debug.js",
+		"/S/workspace-portal/portal/libs/lib/ext-2.0.2/ext-all.js",
+		"/S/workspace-portal/portal/client api/docs_jsducks/extjs/ext-all.js",
+		"/S/workspace-portal/portal/client/src/_ux/less/ext-customization.less",
+		"/S/workspace-portal/portal/client/src/_ux/js/ext.js",
+		"/S/workspace-portal/portal/oryx server/src/de/hpi/visio/data/EndX.java",
+		"/S/workspace-portal/portal/aml converter/extension.js",
+		"/S/workspace-portal/portal/help/src/HTML/responsibility_assignment_acco.htm",
+		"/S/workspace-portal/portal/FindBugs extension/README",
+		"/S/workspace-portal/portal/client/src/portal/less/RACIFilter.less",
+		"/S/workspace-portal/portal/libs/build/movi/style/movi_ie.css",
+		"/S/workspace-portal/portal/platform/application.xsd",
+		"/S/workspace-portal/portal/client/src/portal/i18n/translation_de.js",
+		"/S/workspace-portal/portal/client/src/portal/i18n/translation_en_us.js",
+		"/S/workspace-portal/portal/client/src/portal/less/attributelistview.less",
+		"/S/workspace-portal/portal/client/src/_application/js/core/helper.js",
+		"/S/workspace-portal/portal/client/src/portal/js/plugins/widgets/Activity.js",
+		"/S/workspace-portal/portal/platform/src/com/signavio/effektif/exchange/ActionInstance.java",
+		"/S/workspace-portal/portal/client/src/portal/templates/widgets/Activity/main.html",
+		"/S/workspace-portal/portal/images/war/signavio/templates/commed/CoMMed-LOGO-01-HKS7.eps",
+		"/S/workspace-portal/portal/client/src/portal/js/views/AttributeListView.js",
+		"/S/workspace-portal/portal/adonisimport/test/allTests.xml",
+		"/S/workspace-portal/portal/platform/src/com/signavio/warehouse/report/standard/handler/ActivityListExcelReportHandler.java",
+		"/S/workspace-portal/portal/explorer/src/javascript/plugins/functionalPlugins/activityListReport.js",
+		"/S/workspace-portal/portal/platform/src/com/signavio/warehouse/docu/impl/report/writer/PublisherCommentsReportWriter.java",
+		"/S/workspace-portal/portal/client/src/_application/test/core/modelapi.js",
+		"/S/workspace-portal/portal/libs/src/movi/src/shape.js",
+		"/S/workspace-portal/portal/help/H&M Skins/HTML/signavio_header.htm",
+		"/S/workspace-portal/portal/testing/node/cuba/node_modules/webdriverjs/lib/protocol/elementIdAttribute.js",
+		"/S/workspace-portal/portal/client/src/_application/js/core/widget.js",
+		"/S/workspace-portal/portal/help/src_analytics_de/HTMLaok/was_ist_bpmn.htm",
+		"/S/workspace-portal/portal/client/web.xml",
+		"/S/workspace-portal/portal/platform/WebContent/WEB-INF/jsp/resendActivationMail.jsp",
+		"/S/workspace-portal/portal/simulation/src/com/signavio/simulation/warehouse/simpleimpl/ActivityImpl.java",
+		"/S/workspace-portal/portal/client/src/portal/templates/widgets/RACIFilter/autocompleteItem.html",
+		"/S/workspace-portal/portal/client/target/portal/portal.debug.js",
+		"/S/workspace-portal/portal/client/src/portal/templates/widgets/RACIFilter/autocompleteToggle.html",
+		"/S/workspace-portal/portal/client/src/portal/js/config.js",
+		"/S/workspace-portal/portal/platform/test/unit/old/com/signavio/platform/core/test/TestPlatformInstanceImpl.java",
+		"/S/workspace-portal/portal/client/src/portal/templates/widgets/RACIFilter/tiles.html",
+		"/S/workspace-portal/portal/platform/test/handler/com/signavio/handler/warehouse/model/resources/epkRaciHandover_Response.json",
+		"/S/workspace-portal/portal/client/src/_ux/less/form/general.less",
+		"/S/workspace-portal/portal/analytics/database/Various.sql",
+		"/S/workspace-portal/portal/platform/data/testdata/docunew/template/xsltVariableIncreaseTest.xslt",
+		"/S/workspace-portal/portal/libs/lib/ux/form/comboBox.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\portal",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\glossary",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\platform",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\platform",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\vlient",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\clien",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\llibs",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\**.less",
+			"S:\\workspace-portal\\portal\\client\\*.less",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\src\\portal\\js\\plugins\\widgets",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\src",
+			"S:\\workspace-portal\\portal\\client\\src\\portal\\js\\plugins\\widgets",
+			"S:\\workspace-portal\\portal\\client\\src\\_application\\js\\plugins\\widgets",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\src",
+			"S:\\workspace-portal\\portal\\client\\src/_application/js/plugins/widgets",
+			"S:\\workspace-portal\\portal\\client\\src/portal/js/plugins/widgets",
+			"S:\\workspace-portal\\portal\\client\\_application/js/plugins/widgets",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\src\\portal\\js\\plugins\\widgets\\",
+			"S:\\workspace-portal\\portal\\client\\src\\*\\js\\plugins\\widgets\\",
+			"S:\\workspace-portal\\portal\\client\\src\\portal\\js\\plugins\\widgets\\",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\portal",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\portal",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\platform",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\**\\*.less",
+			"S:\\workspace-portal\\portal\\client\\++\\*.less",
+			"S:\\workspace-portal\\portal\\client\\*.less",
+			"S:\\workspace-portal\\portal\\client\\**.less",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\portal",
+			"S:\\workspace-portal\\portal\\client\\src\\",
+			"S:\\workspace-portal\\portal\\client\\src\\_application\\js\\core",
+			"S:\\workspace-portal\\portal\\client\\_application\\js\\core",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\editor modifications",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\libs\\",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\libs\\",
+			"S:\\workspace-portal\\portal\\client\\libs\\**",
+			"S:\\workspace-portal\\portal\\client\\libs",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\",
+			"S:\\workspace-portal\\portal\\**.js",
+			"S:\\workspace-portal\\portal\\*.js",
+			"S:\\workspace-portal\\portal\\client",
+			"S:\\workspace-portal\\portal\\portal",
+			"S:\\workspace-portal\\portal\\explorer",
+			"S:\\workspace-portal\\portal\\editor modifications",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\client\\*",
+			"S:\\workspace-portal\\client\\*",
+			"S:\\workspace-portal\\client\\",
+			"S:\\workspace-portal\\",
+			"S:\\workspace-portal\\portal\\client\\",
+			"S:\\workspace-portal\\portal\\explorer\\src\\",
+			"S:\\workspace-portal\\portal\\explorer\\src\\javascript\\",
+			"S:\\workspace-portal\\portal\\editor modifications",
+			"editor modifcations/*.js",
+			"*.js",
+			"editor modifications/",
+			"\"editor modifications/\"",
+			"editor modifications",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x-diagram-view",
+			"_CLASS_NAME_SVG",
+			"movi-canvas-svg",
+			"selected-shape",
+			"modelloadend.",
+			"modelloads",
+			"onzoomlevelchangestart.",
+			"onModelLoadStart.",
+			"onmodelloadstart.",
+			"register",
+			"subscribe",
+			"onmodelloadend",
+			"syncloadingre",
+			"loadimage",
+			"viewer",
+			"scrolltosh",
+			"viewer",
+			"creates",
+			"class",
+			"addclass",
+			"onShapeAnnotationShow",
+			"_updateModelviewer",
+			"element",
+			"modelvi",
+			"onShapeAnnotationShow",
+			"Signavio.Const.EVENT.SHAPE_ANNOTATION_SHOW",
+			"_updateModelviewer",
+			"_getModelviewerElement",
+			"showsha",
+			"build",
+			"resu",
+			"showsha",
+			"onshapec",
+			"shapecl",
+			"onshape",
+			"me",
+			"setupUI",
+			"requests ",
+			"requests",
+			"marker",
+			"new MOVI.model.Canvas",
+			"MOVI.model.Canvas",
+			"new MOVI.model.SVGCanvas",
+			"_indexShapes",
+			"Resourceids.push",
+			"Resourceids =",
+			"Resource",
+			"layou",
+			"layout",
+			"markers",
+			"raiseevent",
+			"clickhand",
+			"onshapec",
+			"diagramvi",
+			"onshapec",
+			"onshapecl",
+			"Signavio.Portal.Config.HIDE_LINKING",
+			"this.markers",
+			"initsubp",
+			".modelu",
+			"modeluri =",
+			"svgroot =",
+			"_loadimage",
+			"_loadImage",
+			"_loadImage(",
+			"ssextension",
+			"org.oryxeditor.platform.jar",
+			"org.oryxeditor.platform.weaving",
+			"org.oryxeditor.platform.compile",
+			"copy",
+			"jsonObj",
+			".canvas =",
+			"movi.canvas =",
+			"movi.canvas",
+			"movi.canvas =",
+			"pathstringinde",
+			"_loadimage:",
+			"syncresou",
+			"syncloadingre",
+			"setcallback",
+			"loadmodelcall",
+			"loadStencilSetExtensionCallback",
+			"loadModelCallback",
+			"_syncResources",
+			"moviPanel(",
+			"loadmodel",
+			"onloadmodel",
+			"onloadmodels",
+			"portal",
+			"Model({",
+			"portal_info",
+			"showImage",
+			"Signavio.Core.modelapi.Loader",
+			"modelimg",
+			"(el",
+			"el.",
+			"MOVI.widget.ModelViewer =",
+			"MOVI.widget.ModelViewer",
+			"MOVI.widget.SVGModelViewer",
+			"MOVI.widget.ModelViewer =",
+			"MOVI.widget.ModelViewer",
+			"MOVI.widget.ModelViewer =",
+			"MOVI.widget.ModelViewer",
+			".modelid",
+			"onLoadModel",
+			"EVENT.MODEL_LOAD,",
+			".model_load",
+			"onLoadModel.",
+			".onLoadModel",
+			"onLoadModel",
+			"SHAPE_ANNO",
+			".loadModel",
+			"onloadmode",
+			"Signavio.I18N.Portal.Activities.noActivities",
+			"no activities",
+			"no actities",
+			"x-diagram-view",
+			"initzo",
+			"layouta",
+			"new ",
+			"showanno",
+			"annotations",
+			"getannot",
+			"getmarker",
+			"getmarkers",
+			"getannotations",
+			"annotations",
+			"element:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this.markers()",
+			"Loader",
+			"toggle",
+			"Signavio.Core.TemplateManager.getRaw(",
+			"construct: function(facade, eventManager, widgetConfig) {",
+			"participants(",
+			"this",
+			"name",
+			"participants",
+			"Participants",
+			"Participant",
+			"participant",
+			"addFacadeListeners",
+			"FacadeListeners",
+			"facadeListeners",
+			"extListeners",
+			"ExtListeners",
+			"this.addExtListeners",
+			"target: window,",
+			"Legend",
+			"\\1:",
+			"Signavio.Core.StoreManager.\\1:",
+			"GlossaryStore",
+			"Activities",
+			"&.ux-size-max",
+			"ShapeAttributes",
+			"GlossaryItem",
+			"ModelAttributes",
+			"AttributeListView",
+			"currentFilterInfo",
+			"currentFilterShapeId",
+			"commentListView().",
+			"ListView",
+			"",
+			"CommentView",
+			"",
+			"this.panel().rendered",
+			".facade().",
+			".config().",
+			"this.facade().",
+			"Signavio.Core.WidgetFactory",
+			"this.panel().",
+			"this.facade().",
+			"",
+			"Signavio\\.I18N\\.Application\\.\\1",
+			"Signavio\\.I18N\\.Repository\\.\\1",
+			"\\1",
+			"\\0",
+			"/0",
+			"Signavio.I18N.Application",
+			"Application",
+			"Signavio.I18N.Application.TableView",
+			"Application",
+			"",
+			"Folgende Dinge sind in d",
+			"\"ant.bat\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"model.js",
+				"client\\src\\_application\\js\\core\\modelapi\\Model.js"
+			],
+			[
+				"modelviewer.js",
+				"portal\\libs\\src\\movi\\src\\modelviewer.js"
+			],
+			[
+				"diagramann",
+				"client\\src\\portal\\js\\plugins\\viewPlugins\\diagramAnnotation.js"
+			],
+			[
+				"platformbuild.xml",
+				"portal\\platform\\build.xml"
+			],
+			[
+				"modelviewer",
+				"portal\\libs\\src\\movi\\src\\modelviewer.js"
+			],
+			[
+				"build.xml",
+				"client\\build.xml"
+			],
+			[
+				"diagramview",
+				"client\\src\\portal\\js\\plugins\\widgets\\diagramView.js"
+			],
+			[
+				"clinbuild.x",
+				"client\\build.xml"
+			],
+			[
+				"build.x",
+				"portal\\build.xml"
+			],
+			[
+				"loader",
+				"client\\src\\_application\\js\\core\\modelapi\\Loader.js"
+			],
+			[
+				"configurationmana",
+				"client\\src\\portal\\js\\plugins\\functionalPlugins\\configurationManager.js"
+			],
+			[
+				"lege",
+				"client\\src\\portal\\js\\plugins\\widgets\\legend.js"
+			],
+			[
+				"movi.js",
+				"portal\\libs\\build\\movi\\movi.js"
+			],
+			[
+				"movi.",
+				"portal\\libs\\src\\movi\\src\\movi.js"
+			],
+			[
+				"widgetdiagram",
+				"client\\src\\portal\\js\\plugins\\widgets\\diagramView.js"
+			],
+			[
+				"comments",
+				"client\\src\\portal\\js\\plugins\\widgets\\comments.js"
+			],
+			[
+				"activit",
+				"client\\src\\portal\\less\\Activity.less"
+			],
+			[
+				"autocompl",
+				"client\\src\\_ux\\js\\form\\AutoCompleteField.js"
+			],
+			[
+				"boxrac",
+				"client\\src\\portal\\js\\views\\BoxRACIFilter.js"
+			],
+			[
+				"activity",
+				"client\\src\\portal\\js\\core\\Activity.js"
+			],
+			[
+				"wiactivities",
+				"client\\src\\portal\\js\\plugins\\widgets\\activities.js"
+			],
+			[
+				"simple.ht",
+				"client\\src\\portal\\templates\\views\\RACIFilter\\simple.html"
+			],
+			[
+				"simplerac",
+				"client\\src\\portal\\js\\views\\SimpleRACIFilter.js"
+			],
+			[
+				"ext-al",
+				"portal\\libs\\lib\\ext-2.0.2\\ext-all-debug.js"
+			],
+			[
+				"autocom",
+				"client\\src\\_ux\\js\\form\\AutoCompleteField.js"
+			],
+			[
+				"boxraci",
+				"client\\src\\portal\\js\\views\\BoxRACIFilter.js"
+			],
+			[
+				"viewracifilter",
+				"client\\src\\portal\\js\\views\\RACIFilter.js"
+			],
+			[
+				"racifil",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"varia",
+				"client\\src\\_ux\\less\\variables.less"
+			],
+			[
+				"mixi",
+				"client\\src\\_ux\\less\\mixins.less"
+			],
+			[
+				"activitiesless",
+				"client\\src\\portal\\less\\Activities.less"
+			],
+			[
+				"placeholder",
+				"client\\src\\portal\\templates\\widgets\\activities\\placeholder.html"
+			],
+			[
+				"widgactivi",
+				"client\\src\\portal\\js\\plugins\\widgets\\activities.js"
+			],
+			[
+				"activities",
+				"client\\src\\portal\\less\\Activities.less"
+			],
+			[
+				"actiless",
+				"client\\src\\portal\\less\\Activities.less"
+			],
+			[
+				"commless",
+				"client\\src\\portal\\less\\comments.less"
+			],
+			[
+				"attributeles",
+				"client\\src\\portal\\less\\attributelistview.less"
+			],
+			[
+				"activityless",
+				"client\\src\\portal\\less\\Activity.less"
+			],
+			[
+				"comboless",
+				"client\\src\\_ux\\less\\form\\ComboBox.less"
+			],
+			[
+				"raciles",
+				"client\\src\\portal\\less\\RACIFilter.less"
+			],
+			[
+				"racifilsimple",
+				"client\\src\\portal\\templates\\views\\RACIFilter\\simple.html"
+			],
+			[
+				"modela",
+				"client\\src\\portal\\js\\core\\modelapiextension.js"
+			],
+			[
+				"modelapi.",
+				"portal\\client\\src\\portal\\js\\core\\modelapiextension.js"
+			],
+			[
+				"widactivit",
+				"client\\src\\portal\\js\\plugins\\widgets\\Activity.js"
+			],
+			[
+				"widgactii",
+				"client\\src\\portal\\js\\plugins\\widgets\\activities.js"
+			],
+			[
+				"autocompleteitem",
+				"client\\src\\portal\\templates\\widgets\\RACIFilter\\autocompleteItem.html"
+			],
+			[
+				"racihtml",
+				"client\\src\\portal\\templates\\widgets\\RACIFilter\\autocompleteItem.html"
+			],
+			[
+				"mixins",
+				"client\\src\\_ux\\less\\mixins.less"
+			],
+			[
+				"combole",
+				"client\\src\\_ux\\less\\form\\ComboBox.less"
+			],
+			[
+				"vaira",
+				"client\\src\\_ux\\less\\variables.less"
+			],
+			[
+				"raciless",
+				"client\\src\\portal\\less\\RACIFilter.less"
+			],
+			[
+				"widgraci",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"activiless",
+				"client\\src\\portal\\less\\Activities.less"
+			],
+			[
+				"combobo",
+				"client\\src\\_ux\\js\\form\\ComboBox.js"
+			],
+			[
+				"widgracif",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"racifilter",
+				"portal\\client\\src\\portal\\js\\views\\RACIFilter.js"
+			],
+			[
+				"combojs",
+				"client\\src\\_ux\\js\\form\\ComboBox.js"
+			],
+			[
+				"diagramv",
+				"client\\src\\portal\\js\\plugins\\widgets\\diagramView.js"
+			],
+			[
+				"formgener",
+				"client\\src\\_ux\\less\\form\\general.less"
+			],
+			[
+				"autcom",
+				"client\\src\\_ux\\js\\form\\AutoCompleteField.js"
+			],
+			[
+				"comb",
+				"client\\src\\_ux\\js\\form\\ComboBox.js"
+			],
+			[
+				"autocompletetog",
+				"client\\src\\portal\\templates\\widgets\\RACIFilter\\autocompleteToggle.html"
+			],
+			[
+				"tabme",
+				"client\\src\\portal\\less\\tabmenu.less"
+			],
+			[
+				"widgettab",
+				"client\\src\\portal\\js\\plugins\\widgets\\tabPage.js"
+			],
+			[
+				"ext-cus",
+				"client\\src\\_ux\\less\\ext-customization.less"
+			],
+			[
+				"variables",
+				"client\\src\\_ux\\less\\variables.less"
+			],
+			[
+				"templatema",
+				"client\\src\\_application\\js\\core\\TemplateManager.js"
+			],
+			[
+				"racif",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"widactiv",
+				"client\\src\\portal\\js\\plugins\\widgets\\Activity.js"
+			],
+			[
+				"widactivi",
+				"client\\src\\portal\\js\\plugins\\widgets\\Activity.js"
+			],
+			[
+				"simple.html",
+				"client\\src\\portal\\templates\\views\\RACIFilter\\simple.html"
+			],
+			[
+				"mixinless",
+				"client\\src\\_ux\\less\\mixins.less"
+			],
+			[
+				"exportexcel",
+				"portal\\glossary\\src\\javascript\\plugins\\functionalPlugins\\exportExcel.js"
+			],
+			[
+				"clibuild",
+				"client\\build.xml"
+			],
+			[
+				"widgetraci",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"widgracifilter",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"clieportalplugins.xml",
+				"client\\src\\portal\\js\\plugins\\plugins.xml"
+			],
+			[
+				"clieplugin",
+				"client\\src\\_application\\js\\plugins\\plugins.xml"
+			],
+			[
+				"clierequestmana",
+				"client\\src\\_application\\js\\core\\stores\\requestManager.js"
+			],
+			[
+				"requestmas",
+				"portal\\explorer\\src\\javascript\\core\\stores\\requestManager.js"
+			],
+			[
+				"fileview",
+				"client\\src\\portal\\js\\plugins\\widgets\\fileView.js"
+			],
+			[
+				"widactivity",
+				"client\\src\\portal\\js\\plugins\\widgets\\Activity.js"
+			],
+			[
+				"cliraciless",
+				"client\\src\\portal\\less\\RACIFilter.less"
+			],
+			[
+				"racifilhtml",
+				"client\\src\\portal\\templates\\widgets\\RACIFilter\\tiles.html"
+			],
+			[
+				"racifi",
+				"client\\src\\portal\\js\\plugins\\widgets\\RACIFilter.js"
+			],
+			[
+				"configuraconfigur",
+				"portal\\configuration\\configuration.xml"
+			],
+			[
+				"uxmodelinfo",
+				"client\\src\\_ux\\js\\panel\\modelInfoPanel.js"
+			],
+			[
+				"widget",
+				"client\\src\\_application\\js\\core\\widget.js"
+			],
+			[
+				"cliconfigjs",
+				"client\\src\\portal\\js\\config.js"
+			],
+			[
+				"actless",
+				"client\\src\\portal\\less\\Activity.less"
+			],
+			[
+				"ext.js",
+				"client\\src\\_ux\\js\\ext.js"
+			],
+			[
+				"helper",
+				"client\\src\\_application\\js\\core\\helper.js"
+			],
+			[
+				"widactjs",
+				"client\\src\\portal\\js\\plugins\\widgets\\Activity.js"
+			],
+			[
+				"actjs",
+				"client\\src\\portal\\js\\core\\Activity.js"
+			],
+			[
+				"clinbuil",
+				"client\\build.xml"
+			],
+			[
+				"clientconfiguratio",
+				"client\\src\\portal\\js\\plugins\\functionalPlugins\\configurationManager.js"
+			],
+			[
+				"combobox",
+				"client\\src\\_ux\\js\\form\\ComboBox.js"
+			],
+			[
+				"widg",
+				"client\\src\\_application\\js\\core\\widget.js"
+			],
+			[
+				"listwid",
+				"client\\src\\_application\\js\\core\\ListWidget.js"
+			],
+			[
+				"comments.js",
+				"client\\src\\portal\\js\\plugins\\widgets\\comments.js"
+			],
+			[
+				"build",
+				"client\\build.xml"
+			],
+			[
+				"clienplugins",
+				"client\\src\\portal\\js\\plugins\\plugins.xml"
+			],
+			[
+				"widgetfac",
+				"client\\src\\portal\\js\\core\\widgetFactory.js"
+			],
+			[
+				"clientportalconfig.js",
+				"client\\src\\portal\\js\\config.js"
+			],
+			[
+				"widgetjs",
+				"client\\src\\_application\\js\\core\\widget.js"
+			],
+			[
+				"tabpa",
+				"client\\src\\portal\\js\\plugins\\viewPlugins\\tabPage.js"
+			],
+			[
+				"listview",
+				"client\\src\\_application\\js\\views\\ListView.js"
+			],
+			[
+				"portalmainless",
+				"client\\src\\portal\\less\\main.less"
+			],
+			[
+				"uxless",
+				"client\\src\\_ux\\less\\main.less"
+			],
+			[
+				"autocomplete",
+				"client\\src\\_ux\\js\\form\\AutoCompleteField.js"
+			],
+			[
+				"automcpleteitem",
+				"client\\src\\portal\\templates\\widgets\\RACIFilter\\autocompleteItem.html"
+			],
+			[
+				"attributelist",
+				"client\\src\\portal\\js\\views\\AttributeListView.js"
+			],
+			[
+				"widget.",
+				"client\\src\\_application\\js\\core\\widget.js"
+			],
+			[
+				"shapeatt",
+				"client\\src\\portal\\js\\plugins\\widgets\\shapeAttributes.js"
+			],
+			[
+				"item.html",
+				"client\\src\\_application\\templates\\plugins\\search\\item.html"
+			],
+			[
+				"diagraman",
+				"client\\src\\portal\\js\\plugins\\viewPlugins\\diagramAnnotation.js"
+			],
+			[
+				"mixins.les",
+				"client\\src\\_ux\\less\\mixins.less"
+			],
+			[
+				"mixins.l",
+				"client\\src\\_ux\\less\\mixins.less"
+			],
+			[
+				"minxins.l",
+				"portal\\platform\\WebContent\\WEB-INF\\conf\\academic\\explorer\\plugins.xml"
+			],
+			[
+				"clientactivhtml",
+				"client\\src\\portal\\templates\\widgets\\activities\\list.html"
+			],
+			[
+				"shape.js",
+				"client\\src\\_application\\js\\core\\modelapi\\Shape.js"
+			],
+			[
+				"shape.",
+				"portal\\libs\\src\\movi\\src\\shape.js"
+			],
+			[
+				"portalinfohand",
+				"portal\\platform\\src\\com\\signavio\\warehouse\\model\\handler\\portal\\PortalInfoHandler.java"
+			],
+			[
+				"modelapi",
+				"client\\src\\portal\\js\\core\\modelapiextension.js"
+			],
+			[
+				"srcportaltrans",
+				"client\\src\\portal\\i18n\\translation_en_us.js"
+			],
+			[
+				"clietsrcportaltrans",
+				"client\\src\\portal\\i18n\\translation_de.js"
+			],
+			[
+				"activ",
+				"client\\src\\portal\\js\\plugins\\widgets\\activities.js"
+			],
+			[
+				"clientplugins",
+				"client\\src\\portal\\js\\plugins\\plugins.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
