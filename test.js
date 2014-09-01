@@ -1,4 +1,5 @@
 var should = require('should');
+var sinon = require('sinon');
 var something = require('./main.js');
 
 describe('WHAT', function() {
